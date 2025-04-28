@@ -1,6 +1,0 @@
-# requirements.txt
-opencv-python
-numpy
-djitellopy
-uvicorn
-fastapi
